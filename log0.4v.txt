@@ -1,0 +1,40 @@
+----Monopoli 19 01 09 21:26 v0.2 (Monopoli1901092126v0.2.rar) 
+
+>Metafer8ike apo nullLayoutManager se GridBagLayout
+>Antikatasta8ikan ola ta overrides twn repaint() me paintComponent()
+>ly8ikan ola ta provlimata twn repaints.
+>Ftiaxtikan pionia analoga me ti thesi kai stin periptwsi pou exoume dyo paiktes sto idio tetragwno
+>Proste8ike kentriko tetragwno(!) to opoio den ginotan na einai adeio panel ka8ws den to sevotan to GridBagConstraints
+>Metonomastike to Mdialog se YesNoOkDialog
+>Metatrapike to YesNoOkDialog kata tetoio tropo wste na min skaei otan to allo koubi einai null i ston kataskeuasti bike keno string i string leukwn xaraktirwn (kena)
+>Dimiourgi8ike class StartMenu gia to kentriko menu
+>Enswmatw8ike MessageDispatcher method stin class Monopoli pou 8a lamvanei ka8e minima kata to patima tou kentrikou sto kinito (pros to paron 'S'), analoga me to highlight...
+>I Efarmogi pleon gia dokimastikous logous ypakouei sto patima twn koubiwn
+koubi F1 : Startmenu kai apo kei kai pera toxakia kai 'S' gia select (leitourgei to exit - sta alla apla minimata)
+koubi F2 : Dialog me yes/no apo kei kai pera toxakia kai 'S' gia select (den kanei kati)
+koubi F3 : Dialog me ok kai 'S' gia select (den kanei kati)
+koubi F4 : Katastasi selection gia agores / trades / metakiniseis ktl .. toxakia gia kinis 'S' gia epilogi -->ginetai ble
+
+>Egine Log..
+
+----Monopoli 20 01 09 09:21 v0.3 (Monopoli2001090921v0.3.rar) 
+
+>12-13 wres peripou douleias
+gia na proste8ei pleon to megalytero kommati tis ergasias
+i arxikopoiisi twn dyo paiktwn apo thema xrwmatos kai onomatos (me diagrafi epistrofi ktl)
+>Yloipoii8ikan oloi oi mixanismoi epikoinwnias anamesa sto Monopoli.java kai sto PlayerSettingDialog.java
+>bainei automata to startMenu kai epilegoume me toxakia kai "S"(Select)
+>meta ta stoixeia tou paikti 2 to programma profanws kollaei
+
+theloume to diace kai to paixnidi arxizei ;) apo thema grafikwn exoume sxedon teleiwsei plin twn credits/rules
+
+----Monopoli 26 01 09 19:20 v0.4 (Monopoli2601091920v0.4.rar) 
+
+>Pros8e8ike Control Panel me endeixeis owns monopolies hotels houses mortgages ktl... (den leitourgoun monopolies akoma)
+>proste8ikan ola ta tetragwna kai oi special leitourgies twn income tax , luxury tax kai get the money (leipoun akoma oi etairies (utilities)
+
+>to do chance / community chest panels , auction, menu gia buy, auction ktl
+>kentriko tetragwno me analytikes plirofories gia ta tetragwna
+>analytikes plirofories paiktwn.,,
+
+
